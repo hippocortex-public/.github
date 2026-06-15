@@ -9,7 +9,6 @@ This organization brings together projects and research work primarily focused o
 
 - 🤖 Machine learning models and architectures
 - 📊 Data processing and analysis
-- 🧬 Research in deep learning and neural networks
 - 🔬 AI experiments and prototypes
 - 🛠️ Tools and libraries for AI
 - 💡 Practical applications of artificial intelligence
@@ -34,7 +33,6 @@ Cette organisation regroupe des projets de travail et de recherche principalemen
 
 - 🤖 Modèles et architectures d'apprentissage automatique
 - 📊 Traitement et analyse de données
-- 🧬 Recherche en deep learning et réseaux de neurones
 - 🔬 Expérimentations et prototypes IA
 - 🛠️ Outils et bibliothèques pour l'IA
 - 💡 Applications pratiques de l'intelligence artificielle
